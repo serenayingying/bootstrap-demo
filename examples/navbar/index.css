@@ -1,0 +1,30 @@
+.container{
+    height:1500px;
+}
+
+.container-top{
+    margin-top:15px;
+}
+
+.container-bottom{
+    background-color:rgba(204, 204, 204, 0.38);
+}
+
+h1{
+    font-size: 65px;
+    padding: 76px 0 0 78px;
+}
+
+p{
+    font-size: 22px;
+    font-weight: 200;
+    padding:10px 0 10px 78px;
+}
+
+.btn-anchor{
+    margin: 0 0 50px 78px;
+}
+
+.fixed{
+    padding-top:70px;
+}

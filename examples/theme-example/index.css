@@ -1,0 +1,47 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #333;
+}
+
+.banner {
+    background-color: black;
+    padding: 20px 380px;
+}
+
+.banner-text {
+    text-decoration: none;
+    color: rgb(138, 138, 138);
+    padding-left: 20px;
+}
+
+.banner-text:hover {
+    color: white;
+}
+
+.banner-text.selected {
+    color: white;
+}
+
+.main {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.theme-wrapper {
+    background-color: #eee;
+    margin: 20px auto;
+    width: 1080px;
+}
+
+.theme-title {
+    font-size: 63px;
+    font-weight: 500;
+    padding: 75px 50px 0 50px;
+}
+
+.theme-p {
+    padding: 10px 50px 60px 50px;
+    font-size: 20px;
+    font-weight: 200;
+    line-height: 30px;
+}

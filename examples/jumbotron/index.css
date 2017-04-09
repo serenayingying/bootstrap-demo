@@ -1,0 +1,58 @@
+body{
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.nav{
+    background-color: black;
+}
+
+.nav-container{
+    width:90%;
+    margin: 0 auto;
+     padding: 8px 300px;
+}
+
+.nav-form{
+    float: right;
+}
+
+.project-anchor{
+    background-color:black;
+    color:#a7a5a5;
+    border: none;
+    font-size: 20px;
+}
+
+.project-anchor:hover{
+    color:white;
+}
+
+.sign-in{
+    background-color: green;
+    color:white;
+    border:none;
+}
+.jumbotron-top{
+    background-color:rgba(204, 204, 204, 0.49);
+}
+.jumbotron-container{
+    width: 58%;
+    margin: 0 auto;
+    padding: 50px 0 20px 0 ;
+}
+
+.jumbotron-container h1{
+        font-size: 65px;
+}
+
+.jumbotron-container p{
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.jumbotron-anchor{
+    background-color: rgba(30, 119, 197, 0.84);
+    border: none;
+        margin: 10px 0 50px 0;
+        border-radius: 6px;
+}
